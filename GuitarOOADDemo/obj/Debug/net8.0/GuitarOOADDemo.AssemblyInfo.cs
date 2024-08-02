@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GuitarOOADDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b70c4d862a7440f8fde5fffd4ea898e9bf8e209")]
 [assembly: System.Reflection.AssemblyProductAttribute("GuitarOOADDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GuitarOOADDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

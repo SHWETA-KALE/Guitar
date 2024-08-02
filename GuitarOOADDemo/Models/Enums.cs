@@ -16,20 +16,12 @@ namespace GuitarOOADDemo.Models
             Ibanez
         }
 
-        public enum GuiterType {
+        public enum GuiterType
+        {
             Acoustic,
             Electric,
             Bass
         }
-
-        //public enum GuiterModel
-        //{
-        //    Stratocaster,
-        //    LesPaul,
-        //    D28,
-        //    RG
-
-        //}
 
         public enum Wood
         {
@@ -40,9 +32,9 @@ namespace GuitarOOADDemo.Models
             Rosewood,
             Mahogany,
             Walnut
-            
+
         }
 
-        
+
     }
 }

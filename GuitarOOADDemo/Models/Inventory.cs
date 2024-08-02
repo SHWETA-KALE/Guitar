@@ -34,15 +34,18 @@ namespace GuitarOOADDemo.Models
         public LinkedList<Guitar> Search(GuitarSpec cliGuitar)
         {
             var matchingGuitars = new LinkedList<Guitar>();
-         
+
             foreach (var guitar in guitars)
             {
                 var guitarSpec = guitar.Specification;
 
                 //ignoring price and the serial num
-                if (guitarSpec.Builder == cliGuitar.Builder && guitarSpec.Model == cliGuitar.Model && guitarSpec.Type == cliGuitar.Type && guitarSpec.Backwood == cliGuitar.Backwood && guitarSpec.Topwood == cliGuitar.Topwood)
+                //if (guitarSpec.Builder == cliGuitar.Builder && guitarSpec.Model == cliGuitar.Model && guitarSpec.Type == cliGuitar.Type && guitarSpec.Backwood == cliGuitar.Backwood && guitarSpec.Topwood == cliGuitar.Topwood)
+                //    matchingGuitars.AddLast(guitar);
+                //or
+                if (guitar.Specification.Matches(cliGuitar))
                     matchingGuitars.AddLast(guitar);
-                    
+
             }
             return matchingGuitars;
 

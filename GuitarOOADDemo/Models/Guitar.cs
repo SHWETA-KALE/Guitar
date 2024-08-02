@@ -11,21 +11,22 @@ namespace GuitarOOADDemo.Models
 {
     internal class Guitar
     {
-        
+
         public string SerialNumber { get; set; }
         public double Price { get; set; }
 
-        public GuitarSpec Specification  { get; }
+        public GuitarSpec Specification { get; }
 
-        public Guitar(string serialNum, double price, GuitarSpec specification) { 
-        
+        public Guitar(string serialNum, double price, GuitarSpec specification)
+        {
+
             SerialNumber = serialNum;
             Price = price;
             Specification = specification;
         }
-       
 
-       
+
+
     }
 }
 

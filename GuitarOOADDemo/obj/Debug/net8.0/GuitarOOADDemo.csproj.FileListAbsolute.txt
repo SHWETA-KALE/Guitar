@@ -12,3 +12,4 @@ D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\obj\Debug\net8.0\refint\GuitarOOADD
 D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\obj\Debug\net8.0\GuitarOOADDemo.pdb
 D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\obj\Debug\net8.0\GuitarOOADDemo.genruntimeconfig.cache
 D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\obj\Debug\net8.0\ref\GuitarOOADDemo.dll
+D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\obj\Debug\net8.0\GuitarOOADDemo.sourcelink.json
