@@ -1,0 +1,14 @@
+D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\bin\Debug\net8.0\GuitarOOADDemo.exe
+D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\bin\Debug\net8.0\GuitarOOADDemo.deps.json
+D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\bin\Debug\net8.0\GuitarOOADDemo.runtimeconfig.json
+D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\bin\Debug\net8.0\GuitarOOADDemo.dll
+D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\bin\Debug\net8.0\GuitarOOADDemo.pdb
+D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\obj\Debug\net8.0\GuitarOOADDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\obj\Debug\net8.0\GuitarOOADDemo.AssemblyInfoInputs.cache
+D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\obj\Debug\net8.0\GuitarOOADDemo.AssemblyInfo.cs
+D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\obj\Debug\net8.0\GuitarOOADDemo.csproj.CoreCompileInputs.cache
+D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\obj\Debug\net8.0\GuitarOOADDemo.dll
+D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\obj\Debug\net8.0\refint\GuitarOOADDemo.dll
+D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\obj\Debug\net8.0\GuitarOOADDemo.pdb
+D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\obj\Debug\net8.0\GuitarOOADDemo.genruntimeconfig.cache
+D:\Assignments\GuitarOOADDemo\GuitarOOADDemo\obj\Debug\net8.0\ref\GuitarOOADDemo.dll
