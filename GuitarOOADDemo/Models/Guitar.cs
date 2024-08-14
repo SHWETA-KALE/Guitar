@@ -25,6 +25,11 @@ namespace GuitarOOADDemo.Models
             Specification = specification;
         }
 
+        //public override string ToString()
+        //{
+            
+        //}
+
 
 
     }

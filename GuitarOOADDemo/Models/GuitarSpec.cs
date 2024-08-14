@@ -56,12 +56,6 @@ namespace GuitarSpecOOADDemo.Models
 
 
         }
-
-        public int getNumstrings()
-        {
-            return NumStrings;
-        }
-
         public bool Matches(GuitarSpec spec)
         {
             if (Builder != spec.Builder) return false;
